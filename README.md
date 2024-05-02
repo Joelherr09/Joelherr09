@@ -1,5 +1,22 @@
-### Hola, soy <a href="[joelherr.netlify.app](https://joelherr.netlify.app/)">Joel Herrera<a/> 👋
+<div align="center">
+  <h1 align="center">Hola, soy <a  href="https://joelherr.netlify.app/">Joel Herrera<a/> 👋</h1>
+<div/>
 
+<div align="start">
+  <h2 >Sobre mí</h2>
+  <p>
+    Desarrollador Fullstack
+  </p>
+    <p>
+    Frontend: React, Tailwind, Html, Css
+  </p>
+    <p>
+    Backend: NodeJS, Php, Django
+  </p>
+  <p>
+    Bases de Datos: MySQL, MongoDB, 
+  </p>
+</div>
 <!--
 **Joelherr09/Joelherr09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
