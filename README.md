@@ -1,6 +1,7 @@
+![I am Junior *Fullstack Developer*](https://github.com/Joelherr09/Joelherr09/blob/main/SSPortafolio.png)
 ### Hi there 👋, my name is <a  href="https://joelherr.netlify.app/">Joel Herrera<a/>
 #### I am Junior *Fullstack Developer*
-![I am Junior *Fullstack Developer*](https://pbs.twimg.com/profile_banners/4823458331/1714631692/600x200)
+
 
 I'm from **Chile**, I love web development.
 
