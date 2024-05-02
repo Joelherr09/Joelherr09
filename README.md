@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is <a  href="https://joelherr.netlify.app/">Joel Herrera<a/>
 #### I am Junior *Fullstack Developer*
-![I am Junior *Fullstack Developer*](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Junior *Fullstack Developer*](https://pbs.twimg.com/profile_banners/4823458331/1714631692/600x200)
 
 I'm from **Chile**, I love web development.
 
@@ -14,6 +14,8 @@ Skills: **REACT / TAILWIND / PHP / MYSQL / MONGODB**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joelherr09)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Joelherr09)  
+
+
 
 
 
