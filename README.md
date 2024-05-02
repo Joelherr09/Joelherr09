@@ -11,7 +11,7 @@ Skills: **REACT / TAILWIND / PHP / MYSQL / MONGODB**
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Joelherr09)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Joelherr09)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://joelherr.netlify.app/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joelherr09)](https://github.com/anuraghazra/github-readme-stats) ![GitHub streak stats](https://streak-stats.demolab.com/?user=Joelherr09)  
+ ![GitHub streak stats](https://streak-stats.demolab.com/?user=Joelherr09)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joelherr09)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
