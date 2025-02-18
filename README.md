@@ -1,4 +1,4 @@
-![I am Junior *Fullstack Developer*](https://github.com/Joelherr09/Joelherr09/blob/main/SSPortafolio.png)
+![I am Junior *Fullstack Developer*]
 ### Hi there 👋, my name is <a  href="https://joelherr.netlify.app/">Joel Herrera<a/>
 #### I am Junior *Fullstack Developer*
 
