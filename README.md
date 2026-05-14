@@ -5,7 +5,7 @@
 
 I'm from **Chile**, I love web development.
 
-Skills: **REACT / TAILWIND / PHP / MYSQL / MONGODB**
+Skills: **NEXTJS / TAILWIND / SUPABASE / MONGODB**
 
 
 
