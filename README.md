@@ -1,4 +1,3 @@
-![I am *Fullstack Developer*]
 ### Hi there 👋, my name is <a  href="https://joelherr.netlify.app/">Joel Herrera<a/>
 #### I am *Fullstack Developer*
 
