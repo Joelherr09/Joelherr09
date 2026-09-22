@@ -1,6 +1,6 @@
 ![I am Junior *Fullstack Developer*]
 ### Hi there 👋, my name is <a  href="https://joelherr.netlify.app/">Joel Herrera<a/>
-#### I am Junior *Fullstack Developer*
+#### I am *Fullstack Developer*
 
 
 I'm from **Chile**, I love web development.
