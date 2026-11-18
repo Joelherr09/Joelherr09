@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is <a  href="https://joelherr.netlify.app/">Joel Herrera<a/>
-#### I am *Fullstack Developer*
 
+perdí las ganas de hacer esto atractivo jajaj
+El que sepa encontrar valor a lo valioso, lo encontrará.
+Me gusta crear cosas, digitalizar todo lo digitalizable.
 
-I'm from **Chile**, I love web development.
-
-Skills: **NEXTJS / TAILWIND / SUPABASE / MONGODB**
+Hablo inglés también, estoy abierto a cualquier propuesta que tenga corazón (o plata jajaj)
 
 
 
